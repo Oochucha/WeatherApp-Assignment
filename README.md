@@ -4,10 +4,10 @@ This is a single-page weather forecast application that allows users to view the
 
 ## Features
 
+- Autocomplete search bar give suggestion of city names on bassis of the keys entered by user
 - Enter a city name and view the current weather details, including temperature, humidity, wind speed, and weather description.
 - See the minimum and maximum temperature for the current day.
 - Get a 5-day forecast with the average temperature and weather description for each day.
-- Toggle between Celsius and Fahrenheit units.
 
 ## Usage
 
@@ -23,7 +23,7 @@ This is a single-page weather forecast application that allows users to view the
 
 4. Open your web browser and visit `http://localhost:3000` to access the application.
 
-5. Enter a city name in the input field and click the "Search" button to view the weather details.
+5. Enter a city name in the input field and select the city from the list to view the weather details.
 
 6. Click on each days accordion to see the upcoming days detailed forecast
 
