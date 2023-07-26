@@ -19,7 +19,7 @@ This is a single-page weather forecast application that allows users to view the
    `npm install`
 
 3. Run the application locally.
-   npm run start
+   `npm run start`
 
 4. Open your web browser and visit `http://localhost:3000` to access the application.
 
